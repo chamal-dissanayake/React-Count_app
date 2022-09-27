@@ -18,7 +18,7 @@ class Counter extends React.Component{
 
     down(){
         this.setState({
-            number:-- this.state.number
+            number: -- this.state.number
         })
     }
 
